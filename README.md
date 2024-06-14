@@ -23,4 +23,4 @@ This Java-based project provides a simple application for encrypting and decrypt
 
 ## Contact
 
-For any questions or suggestions, feel free to contact reddy12923@email.com
+For any questions or suggestions, feel free to contact reddy12923@gmail.com 
